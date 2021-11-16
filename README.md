@@ -4,7 +4,7 @@
 
 ### 1. Clone the repository:
 
-    git clone https://github.com/sibtc/simple-django-login.git
+    git clone https://github.com/supraja-ch/test.git
 
 ### 2. install requiremts.txt
      pip install -r requirments.txt
